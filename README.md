@@ -3,7 +3,8 @@
 
 *Von Luis, Erik, Caspar, Paul*
 
-* is 
-* not
-
-> md
+> Für
+> Frau 
+> Nicola 
+> Hofmeister 
+> Degga
