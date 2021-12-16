@@ -20,11 +20,15 @@ public class Sparschwein{
         }
     }
     void guthabenErhöhen(){
-        if(guthabenNiedrig){
-            guthaben = guthaben + 10;
+        if(guthabenNiedrig()){
+            geldEinwefen();
         }
     }
     void prüfeGuthaben(int betrag){
-        System.out.println("Dein guthaben beträgt " + guthaben);
+        if(guthaben >= betrag){
+            System.out.println("Dein Sparschwein ist ausreichend gefüllt");
+        }else{
+            System.out.println("Du hast "+(betrag - guthaben)+ " zu wenig");
+        }
     }
 }
