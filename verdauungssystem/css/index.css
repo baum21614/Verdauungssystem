@@ -1,0 +1,212 @@
+:root{
+    --biofont: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --whitemain: #f0f8ff;
+}
+.tinp{
+    padding: 12px 12px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+    background-color: #202020;
+    color: var(--whitemain);
+    font-size: 18px;
+    height: 50px;
+    width: 400px;
+    margin-right: 12px;
+    position: relative;
+}
+.chralimi{
+    position: absolute;
+    right: 0;
+}
+.tinp:focus{
+    border: 2.54px solid #505050;
+}
+.btnsubm{
+    height: 50px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: #20202080;
+    border: 2.54px solid transparent;
+    outline: 2.54px solid transparent;
+    color: #f0f8ff;
+    cursor: pointer;
+    font-size: 15.5px;
+    text-decoration: none;
+}
+.btnsubm:hover{
+    border: 2.54px solid #505050;
+    background-color: #202020;
+    transition: 1s ease;
+}
+.mflex{
+    display: flex;
+}
+.inf{
+    margin-bottom: 70px;
+    color: var(--whitemain);
+    font-family: var(--biofont);
+    text-align: center;
+    position: absolute;
+    top: 230px;
+}
+footer{
+    left: 0;
+    width: 100vw;
+    color: var(--whitemain);
+    position: absolute;
+    text-align: center;
+    border-radius: 12px 12px 0 0;
+    margin-top: 40px;
+}
+.upper a{
+    color: #f0f8ff80;
+    text-decoration: none;
+}
+.upper a:hover{
+    color: #f0f8ff;
+}
+.upper{
+    background-color: #202020;
+    line-height: 29px;
+    height: 29px;
+}
+.lower{
+    background-color: #202020;
+    border-top: 2px solid #505050;
+    line-height: 29px;
+    height: 29px;
+}
+.nxtinner{
+    color: var(--whitemain);
+    text-align: center;
+}
+.next{
+    transform: translateX(150%);
+    display: none;
+}
+.next.clicked{
+    display: initial;
+    animation: flyin 1s;
+    -webkit-animation-fill-mode: forwards;
+    -moz-animation-fill-mode: forwards;
+    -o-animation-fill-mode: forwards;
+    -ms-animation-fill-mode: forwards;
+    animation-fill-mode: forwards;
+}
+@keyframes flyin {
+    from{transform: translateX(150%);}
+    to{transform: translateX(0);}
+}
+.vis1st.clicked{
+    display: none;
+}
+.formbt.clicked{
+    display: none;
+}
+.maincookie{
+    display: grid;
+    place-items: center;
+    text-align: center;
+    color: #f0f8ff;
+    padding: 18px;
+    border-radius: 12px;
+    background-color: #202020;
+}
+.maincookie p{
+    font-size: 18px;
+}
+.maincookie h3{
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+.innernonflex{
+    max-width: 95%;
+}
+.homeicon{
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    font-size: 25px;
+}
+.homeicon i{
+    color: #f0f8ff80;
+    transition: .4s !important;
+    cursor: pointer !important;
+}
+.homeicon i:hover{
+    color: #f0f8ff;
+    filter: drop-shadow(0.1em .18em 0.04em #5ac77b7a) !important;
+}
+.switch, .sldrnfdff{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+}
+.hereclick{
+    cursor: pointer;
+    color: #5ac77b;
+}
+.hereclick:hover{
+    text-decoration: dashed underline 2px #505050;
+}
+.inndice{
+    width: 400px;
+    padding: 50px;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    top: 50%;
+    left: 50%;
+    background-color: #202020;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #5ac77b;
+    display: none;
+}
+.inndice.diceready{
+    display: flex;
+}
+.dicewrapper{
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+}
+.inndice p{
+    font-size: 16px;
+    margin: 30px 0;
+    font-weight: 500;
+    color: #f0f8ff;
+}
+.inndice button{
+    height: 50px;
+    width: 100px;
+    border-radius: 12px;
+    background-color: #181818;
+    border: 2.54px solid transparent;
+    outline: 2.54px solid transparent;
+    color: #f0f8ff;
+    cursor: pointer;
+    font-size: 15.5px;
+    text-decoration: none;
+}
+.inndice button:hover{
+    border: 2.54px solid #505050;
+    background-color: #181818;
+    transition: 1s ease;
+}
+.shake{
+    animation: shake 0.5s infinite;
+}
+@keyframes shake{
+    0%{
+        transform: rotate(8deg);
+    }
+    50%{
+        transform: rotate(-8deg);
+    }
+    100%{
+        transform: rotate(8deg);
+    }
+}

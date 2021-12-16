@@ -1,0 +1,97 @@
+.innermodal{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: #202020;
+    border-radius: 12px;
+    border: 1.5px solid #5ac77b;
+    color: aliceblue;
+    width: 310px;
+    height: 300px;
+    padding: 14px;
+    z-index: 2000;
+    display: none;
+}
+.innermodal.modopen{
+    display: block;
+}
+.mod-popup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    position: fixed;
+    margin-top: -400px !important;
+}
+.innermodal header{
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+    padding-bottom: 26px;
+    text-decoration: dashed underline 2px #505050;
+}
+.modaltext{
+    text-align: center;
+    line-height: 23px;
+}
+.mdgrokl{
+    color: #f56353;
+}
+.overlay{
+    z-index: 1500;
+    background-color: #00000080;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    display: none;
+    backdrop-filter: blur(5px);
+    pointer-events: all;
+}
+.overlay.modopen{
+    display: block;
+}
+.fig1:hover, .fig2:hover, .fig3:hover{
+    transform: scale(2);
+}
+.fig1.chosen{
+    transform: scale(2);
+    fill: #5ac77b !important;
+}
+.fig2.chosen{
+    transform: scale(2);
+    fill: #5ac77b !important;
+}
+.fig3.chosen{
+    transform: scale(2);
+    fill: #5ac77b !important;
+}
+.fig1, .fig2, .fig3{
+    fill: aliceblue;
+}
+.fig1.clckcnc{
+    opacity: .5;
+    pointer-events: none;
+}
+.fig2.clckcnc{
+    opacity: .5;
+    pointer-events: none;
+}
+.fig3.clckcnc{
+    opacity: .5;
+    pointer-events: none;
+}
+.bntfigsubm{
+    margin-top:30px;
+    background:#181818 !important;
+    opacity: .5;
+    pointer-events: none;
+    user-select: none;
+}
+.bntfigsubm.figsel{
+    opacity: 1;
+    pointer-events: all;
+}

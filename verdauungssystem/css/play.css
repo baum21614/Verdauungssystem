@@ -1,0 +1,246 @@
+.greet1, .greet2{
+    color: #f0f8ff !important;
+    display: none;
+    text-align: center;
+    margin-top: 90px;
+    margin-bottom: 30px;
+}
+.greet1.result, .greet2.result{
+    display: initial;
+}
+.main-inner-game-comtainer, svg{
+    width: 100vw!important;
+    margin-top: 10px;
+}
+body{
+    /* overflow: hidden; */
+    scroll-behavior: smooth;
+}
+.inpsvg{
+    padding: 5px 6px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color: #202020;
+    color: var(--whitemain);
+    font-size: 12px;
+    height: 20px;
+    width: 140px;
+    margin-right: 12px;
+    font-weight: 500;
+}
+.inpsvg:focus{
+    border: 2px solid #505050;
+}
+.inpsvg.corr{
+    border: 1px solid #5ac77b;
+    color: #5ac77b;
+    pointer-events: none;
+    opacity: .9;
+}
+.inpsvg.wrng{
+    border: 1px solid #f56353;
+    color: #f56353;
+    pointer-events: none;
+    opacity: .5;
+}
+.aref{
+    color: #f0f8ff;
+    text-decoration: none;
+}
+.ishfb{
+    margin-top: 80px;
+    margin-bottom: 30px;
+}
+#checkansw.inact{
+    opacity: .8;
+    pointer-events: none;
+}
+.zommam.completedzm{
+    animation: zoomin 2s 1 forwards;
+}
+@keyframes zoomin {
+    from{height: 229.19267mm;}
+    to{height: 1642px;}
+}
+.figuresel{
+    position: absolute;
+    cursor: default !important;
+    top: 220px;
+    left: 455px;
+    height: 90px !important;
+    fill: #202020;
+    z-index: 10000;
+    padding: 12px;
+    transition: all .5s;
+}
+.figuresel.completedzm{
+    animation: esein 1s 1 forwards;
+}
+.figuresel.start{
+    animation: stratgm 4s 1 forwards;
+    fill: #202020;
+    opacity: 1 !important;
+}
+.figuresel.start2{
+    animation: stratgm2 4s 1 forwards;
+    fill: #202020;
+    opacity: 1 !important;
+}
+.figuresel path{
+    stroke: #5ac77b;
+    stroke-width: 1.5px;
+    stroke-linejoin: round;
+}
+#path20716.completedzm{
+    transform: scale(1);
+    transition: 4s all !important;
+}
+#path19072.completedzm{
+    transform: scale(1);
+    transition: 4s all !important;
+}
+.mainquesdiv{
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    font-size: 10px;
+    background-color: #202020;
+    border: 1.5px solid #5ac77b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+    z-index: 12;
+}
+.contentques header{
+    font-size: 16px;
+} 
+.contentques label{
+    vertical-align: bottom;
+}
+.contentques input{
+    border-radius: 7px;
+    padding: 7px;
+    outline: none;
+    border: none;
+    background-color: #181818;
+    color: var(--whitemain);
+    position: relative;
+    font-size: 10px !important;
+    margin-top: 10px;
+}
+#qs1aw.corr{
+    border: 1px solid #5ac77b;
+    color: #5ac77b;
+    pointer-events: none;
+    opacity: .5;
+}
+#qs1aw.wrng{
+    border: 1px solid #f56353;
+    color: #f56353;
+    pointer-events: none;
+    opacity: .5;
+}
+.contentques input[type="checkbox"]{
+    vertical-align: bottom;
+}
+.contentques input[type="submit"]{
+    color: #f0f8ff;
+    cursor: pointer;
+    text-decoration: none;
+    opacity: .5;
+    pointer-events: none;
+}
+.contentques input[type="submit"]:hover{
+    transform: scale(.8);
+}
+.contentques input::-webkit-outer-spin-button,
+.contentques input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.contentques input[type=number] {
+    -moz-appearance:textfield; /* Firefox */
+}
+.pointer{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: -0.3pc;
+    left: 264px;
+    transform: rotate(45deg);
+    background-color: #202020;
+    z-index: 1;
+    border: #5ac77b 1.5px solid;
+}
+.pointer::after{
+    content: '';
+    background-color: #202020;
+    height: 40px;
+    width: 30px;
+    margin-top: 1.6px;
+    position: absolute;
+    transform: rotate(45deg);
+    left: 0;
+    top: -4.6px;
+    border-radius: 5px;
+}
+.dicescel{
+    position: absolute;
+    left: 0;
+    top: 60px;
+    padding: 12px;
+    background-color: #202020;
+    border-radius: 0 12px 12px 0;
+    border-top: 2.5px solid #505050;
+    border-bottom: 2.5px solid #505050;
+    border-right: 2.5px solid #505050;
+    cursor: pointer;
+    transition: all .6s;
+}
+.dicescel:hover{
+    border-top: 2.5px solid #5ac77b;
+    border-bottom: 2.5px solid #5ac77b;
+    border-right: 2.5px solid #5ac77b;
+}
+.dicescel p{
+    color: #f0f8ff;
+    font-size: 22px;
+}
+#md11q1{
+    transform: scale(0);
+}
+#md11q1.degga{
+    transform: scale(1);
+    animation: degga 4s 1 forwards !important;
+}
+#md22q1{
+    transform: scale(0);
+}
+#md22q1.degga{
+    transform: scale(1);
+    animation: degga 4s 1 forwards !important;
+}
+@keyframes degga {
+    0%{transform: scale(0);}
+    99%{transform: scale(0);}
+    100%{transform: scale(1);}
+}
+@keyframes stratgm {
+    from{transform: translateX(0) translateY(0);}
+    to{transform: translateX(100px) translateY(0);}
+}
+@keyframes stratgm2 {
+    from{transform: translateX(100px) translateY(0);}
+    to{transform: translateX(131px) translateY(-5px);}
+}
+@keyframes esein {
+    0%{opacity: 0;}
+    99%{opacity: 0;}
+    100%{opacity: 1;}
+}
+/* 
+von Luis, Erik, Paul, Caspar 
+2021
+*/
