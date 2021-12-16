@@ -20,11 +20,11 @@ public class Sparschwein{
         }
     }
     void guthabenErhöhen(){
-        if(guthaben <= 5){
+        if(guthabenNiedrig){
             guthaben = guthaben + 10;
         }
     }
     void prüfeGuthaben(int betrag){
-
+        System.out.println("Dein guthaben beträgt " + guthaben);
     }
 }
