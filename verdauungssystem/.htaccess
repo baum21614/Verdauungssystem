@@ -2,10 +2,10 @@ RewriteEngine on
 
 RewriteRule ^404?$ 404.aspx
 RewriteRule ^home?$ index.php
+RewriteRule ^spielen?$ play.php
 RewriteRule ^spiel?$ play.php
 RewriteRule ^spiel1?$ play.php
 RewriteRule ^spiel2?$ play2.php
-RewriteRule ^los?$ play.php
 RewriteRule ^weiter?$ play.php
 RewriteRule ^quelle?$ quellen.aspx
 RewriteRule ^cookies?$ cookieinfo.aspx

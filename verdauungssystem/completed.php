@@ -23,9 +23,19 @@
     <link rel="stylesheet" href="./css/cookies.css">
     <link rel="stylesheet" href="./css/footer.stick.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <noscript>
+        <style>
+            .main-cong{
+                color: red !important; /* test style _ placeholder */
+            }
+        </style>
+    </noscript>
 </head>
+<section>
+    <div class="main-cong">
 
-
+    </div>
+</section>
 <footer>
             <div class="upper">
                 <a style="padding-right:10px;" href="./quelle">Quelle</a>

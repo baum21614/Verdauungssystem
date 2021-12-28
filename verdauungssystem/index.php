@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!-- comment for apache -->
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +61,7 @@
                 <a href="./cookies">Cookies</a>
             </div>
             <div class="lower">
-                <p>Das Verdauungssystem von Luis, Erik, Caspar, Paul</p>
+                <p>Das Verdauungssystem von Luis, Erik,<!-- Caspar, (?/)--> Paul</p>
             </div>
         </footer>
         <div class="wrapper">
@@ -80,6 +79,7 @@
         $('#red').click(function redredir(){
             location.replace('./spiel');
         });
+        // 
     </script>
     <script>
         $('#btnsbm').click(function swipe(){
@@ -87,6 +87,7 @@
             $('.vis1st').toggleClass('clicked');
             $('.formbt').toggleClass('clicked');
         });
+        // 
     </script>
     <script>
         function checkForInput(element) {
@@ -103,6 +104,7 @@
         $('input.tinp').on('change keyup', function() {
             checkForInput(this);  
         });
+        // 
     </script>
     <script src="./script/cookies.js"></script>
 </body>
