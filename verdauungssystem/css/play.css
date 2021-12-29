@@ -30,7 +30,7 @@ body{
     font-weight: 500;
 }
 .inpsvg:focus{
-    border: 2px solid #505050;
+    border: 1.5px solid #505050;
 }
 .inpsvg.corr{
     border: 1px solid #5ac77b;
