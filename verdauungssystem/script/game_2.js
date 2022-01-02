@@ -67,4 +67,3 @@ $("#dicescel1").click(function(){
     $("#path19072").addClass("completedzm");
     $("#md22q1").addClass("degga");
 });
-

@@ -2133,7 +2133,7 @@
                                 <div class="pointer"></div>
                                 <header>Zunge</header>
                                 <p>Was zählt nicht als Geschmackssinn?</p><!--32-->
-                                <input id="schrf chbx" style="margin-right: 3px;" name="scharf"type="checkbox" placeholder="Scharf">
+                                <input id="schrf chbx" style="margin-right: 3px;" name="scharf"type="checkbox" placeholder="Scharf"><!-- c -->
                                 <label for="scharf" style="margin-right: 10px;">scharf</label>
                                 <input id="sar chbx" style="margin-right: 3px;" name="sauer" type="checkbox" placeholder="Sauer">
                                 <label for="sauer">sauer</label>
@@ -2233,7 +2233,7 @@
                 <header>Cookies</header>
                 <p>Wir verwenden Cookies um das Spielerlebnis zu verbessern.</p>
                 <div class="buttons">
-                    <button class="item">Ich verstehe</button>
+                    <button class="item">Verstanden</button>
                     <a href="./cookies" class="item">Mehr erfahren</a>
                 </div>
             </div>

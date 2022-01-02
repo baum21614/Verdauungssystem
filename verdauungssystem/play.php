@@ -2488,7 +2488,7 @@
                 <header>Cookies</header>
                 <p>Wir verwenden Cookies um das Spielerlebnis zu verbessern.</p>
                 <div class="buttons">
-                    <button class="item">Ich verstehe</button>
+                    <button class="item">Verstanden</button>
                     <a href="./cookies" class="item">Mehr erfahren</a>
                 </div>
             </div>
