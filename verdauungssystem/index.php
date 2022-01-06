@@ -67,7 +67,7 @@
         <div class="wrapper">
             <div class="content">
             <header>Cookies</header>
-            <p>Wir verwenden Cookies um das Spielerlebnis zu verbessern.</p>
+            <p>Wir verwenden nötige Cookies um das Spielerlebnis zu verbessern. Mit Benutzen der Website stimmen sie den Cookies zu.</p>
             <div class="buttons">
                 <button class="item">Verstanden</button>
                 <a href="./cookies" class="item">Mehr erfahren</a>
