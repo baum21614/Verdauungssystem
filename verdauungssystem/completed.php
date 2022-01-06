@@ -1,5 +1,11 @@
 <!DOCTYPE html>
-<!-- comment for apache -->
+    <?php
+        if (isset($_COOKIE['usersnmid'])){
+            //
+        }else{
+            header('Location: ./home');
+        }
+    ?>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
