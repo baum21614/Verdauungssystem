@@ -9,6 +9,9 @@ RewriteRule ^spiel2?$ play2.php
 RewriteRule ^weiter?$ play.php
 RewriteRule ^quelle?$ quellen.aspx
 RewriteRule ^cookies?$ cookieinfo.aspx
+RewriteRule ^safari/spiel?$ safari-play.php
+RewriteRule ^safari/spiel1?$ safari-play.php
+RewriteRule ^safari/spiel2?$ safari-play2.php
 
 RewriteCond %{REQUEST_FILENAME} !-f 
 RewriteCond %{REQUEST_FILENAME} !-d 

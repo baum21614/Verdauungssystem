@@ -110,7 +110,7 @@
         let userAgent = navigator.userAgent;
         let browser;
         if(userAgent.match(/safari/i)){
-            location.replace('./problem.aspx');
+            location.replace('./problem.aspx?brwproblem');
         }
     </script>
     <script src="./script/cookies.js"></script>

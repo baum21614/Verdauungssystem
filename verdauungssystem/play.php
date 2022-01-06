@@ -2193,8 +2193,8 @@
                     id="text225"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="49.18042"
-                    y="285.53131"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="285.53131">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="ohrspdrs" type="text" placeholder="Lösung..."></input><!-- Ohrspeicheldrüße -->
                     </div>
                 </foreignObject>
@@ -2203,8 +2203,8 @@
                     id="text225"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="49.18042"
-                    y="237.46332"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="237.46332">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="untzngspdrs" type="text" placeholder="Lösung..."></input><!-- Unterzungenspeicheldrüße -->
                     </div>
                 </foreignObject>
@@ -2213,8 +2213,8 @@
                     id="text227"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="49.18042"
-                    y="262.12512"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="262.12512">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="untkfspdrs" type="text" placeholder="Lösung..."></input><!-- Unterkieferspeicheldrüße -->
                     </div>
                 </foreignObject>
@@ -2223,8 +2223,8 @@
                     id="text231"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="17.90227"
-                    y="118.38391"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="118.38391">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="znge" type="text" placeholder="Lösung..."></input><!-- Zunge -->
                     </div>
                 </foreignObject>
@@ -2233,8 +2233,8 @@
                     id="text249"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="16.28098"
-                    y="420.85492"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="420.85492">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="lebr" type="text" placeholder="Lösung..."></input><!-- Leber -->
                     </div>
                 </foreignObject>
@@ -2243,8 +2243,8 @@
                     id="text259"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="18.90227"
-                    y="590.75574"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="590.75574">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="d12fnd" type="text" placeholder="Lösung..."></input><!-- Zwölffingerdarm -->
                     </div>
                 </foreignObject>
@@ -2267,8 +2267,8 @@
                     id="text303"
                     font-size="18"
                     x="18.90227"
-                    y="618.70886"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="618.70886">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="dlernd" type="text" placeholder="Lösung..."></input><!-- Leerdarm -->
                     </div>
                 </foreignObject>
@@ -2277,8 +2277,8 @@
                     x="18.90227"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     id="text10149"
-                    font-size="18"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    font-size="18">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="uvula" type="text" placeholder="Lösung..."></input><!-- Uvula -->
                     </div>
                 </foreignObject>
@@ -2288,7 +2288,7 @@
                     font-size="18"
                     id="text11838"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate">
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="dkrmnd" type="text" placeholder="Lösung..."></input><!-- Krummdarm -->
                     </div>
                 </foreignObject>
@@ -2297,8 +2297,8 @@
                     id="text18612"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="17.90227"
-                    y="501.33362"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="501.33362">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="hptgllngng" type="text" placeholder="Lösung..."></input><!-- Hauptgallengang -->
                     </div>
                 </foreignObject>
@@ -2307,8 +2307,8 @@
                     id="text18978"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="17.90227"
-                    y="68.323303"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="68.323303">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="gmn" type="text" placeholder="Lösung..."></input><!-- Gaumen -->
                     </div>
                 </foreignObject>
@@ -2317,8 +2317,8 @@
                     id="text20704"
                     font-size="18"
                     x="17.90227"
-                    y="142.323303"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="142.323303">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="zhne" type="text" placeholder="Lösung..."></input><!-- Zähne -->
                     </div>
                 </foreignObject>
@@ -2327,8 +2327,8 @@
                     id="text229"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="406.29581"
-                    y="184.31616"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="184.31616">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="sprhr" type="text" placeholder="Lösung..."></input><!-- Speiseröhre -->
                     </div>
                 </foreignObject>
@@ -2337,8 +2337,8 @@
                     id="text243"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="405.70587"
-                    y="147.74203"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="147.74203">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="rchn" type="text" placeholder="Lösung..."></input><!-- Rachen -->
                     </div>
                 </foreignObject>
@@ -2347,8 +2347,8 @@
                     id="text253"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="463.55981"
-                    y="431.7045"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="431.7045">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="mgn" type="text" placeholder="Lösung..."></input><!-- Magen -->
                     </div>
                 </foreignObject>
@@ -2357,8 +2357,8 @@
                     id="text255"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="463.55981"
-                    y="459.90173"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="459.90173">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="bspdrse" type="text" placeholder="Lösung..."></input><!-- Bauchspeicheldrüße -->
                     </div>
                 </foreignObject>
@@ -2367,8 +2367,8 @@
                 id="text257"
                 style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                 x="469.71509"
-                y="496.80603"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                y="496.80603">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="bspdrsegng" type="text" placeholder="Lösung..."></input><!-- Bauchspeicheldrüßengang -->
                     </div>
                 </foreignObject>
@@ -2377,8 +2377,8 @@
                     id="text265"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="458.26929"
-                    y="659.55371"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="659.55371">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="blnddnm" type="text" placeholder="Lösung..."></input><!-- Blinddarm -->
                     </div>
                 </foreignObject>
@@ -2401,8 +2401,8 @@
                     x="458.26929"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     id="text5175"
-                    font-size="18"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    font-size="18">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="qqkln" type="text" placeholder="Lösung..."></input><!-- Quercolon -->
                     </div>
                 </foreignObject>
@@ -2410,8 +2410,8 @@
                     y="771.53668"
                     x="458.26929"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
-                    id="text16150"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    id="text16150">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="enndm" type="text" placeholder="Lösung..."></input><!-- Enddarm -->
                     </div>
                 </foreignObject>
@@ -2420,8 +2420,8 @@
                     id="text267"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="73.57686"
-                    y="733.26038"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="733.26038">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="apndx" type="text" placeholder="Lösung..."></input><!-- Appendix -->
                     </div>
                 </foreignObject>
@@ -2430,8 +2430,8 @@
                     id="text4782"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:end;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:end;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="14.28098"
-                    y="459.56018"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="459.56018">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="gllnbls" type="text" placeholder="Lösung..."></input><!-- Gallenblase -->
                     </div>
                 </foreignObject>
@@ -2440,8 +2440,8 @@
                     id="text273"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="458.26929"
-                    y="691.97308"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="691.97308">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="abstcln" type="text" placeholder="Lösung..."></input><!-- Absteigendes Colon -->
                     </div>
                 </foreignObject>
@@ -2450,8 +2450,8 @@
                     id="text263"
                     style="color:#ffffff;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Normal';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;white-space:normal;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#fff;fill-opacity:1;fill-rule:nonzero;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
                     x="458.26929"
-                    y="625.89929"
-                    <div xmlns="http://www.w3.org/1999/xhtml">
+                    y="625.89929">
+                    <div style="position: fixed;" xmlns="http://www.w3.org/1999/xhtml">
                         <input class="inpsvg" id="afstcln" type="text" placeholder="Lösung..."></input><!-- Aufsteigendes Colon -->
                     </div>
                 </foreignObject>
