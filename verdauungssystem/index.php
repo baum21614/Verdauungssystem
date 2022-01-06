@@ -69,7 +69,8 @@
             <header>Cookies</header>
             <p>Wir verwenden nötige Cookies um das Spielerlebnis zu verbessern. Mit Benutzen der Website stimmen sie den Cookies zu.</p>
             <div class="buttons">
-                <button class="item">Verstanden</button>
+                <button class="stay item">Verstanden</button>
+                <button class="leave item">Seite verlassen</button>
                 <a href="./cookies" class="item">Mehr erfahren</a>
             </div>
         </div>
@@ -79,6 +80,9 @@
         $('#red').click(function redredir(){
             location.replace('./spiel');
         });
+        $('.leave').click(function(){
+            location.replace('https://google.com');
+        })
         // 
     </script>
     <script>

@@ -1,5 +1,5 @@
 const cookieBox = document.querySelector(".wrapper"),
-acceptBtn = cookieBox.querySelector("button");
+acceptBtn = cookieBox.querySelector(".stay");
 acceptBtn.onclick = ()=>{
     document.cookie = "_ga=GA1.2.422452332.1638112688; max-age="+60*60*24*30;
     if(document.cookie){
