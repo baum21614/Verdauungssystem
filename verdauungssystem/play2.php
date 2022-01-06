@@ -1,6 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-<!-- Für Bio <3 -->
+    <?php
+        if (isset($_COOKIE['usersnmid'])){
+            //
+        }else{
+            header('Location: ./home');
+        }
+    ?>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
