@@ -45,9 +45,12 @@
             <button id="rolldc" class="dcbtn">Würfeln...</button>
         </div>
     </div>
-    <div class="dicescel" id="dicescel">
-        <p class="chngdcsec">Los</p>
+    <div class="movearound">    
+        <div class="dicescel" id="dicescel">
+            <p class="chngdcsec">Los</p>
+        </div>
     </div>
+    
     <div class="dicescel" id="dicescel1" style="transform:scale(0);">
         <p class="chngdcsec">Weiter</p>
     </div>
