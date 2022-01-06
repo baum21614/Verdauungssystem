@@ -106,6 +106,13 @@
         });
         // 
     </script>
+    <script>
+        let userAgent = navigator.userAgent;
+        let browser;
+        if(userAgent.match(/safari/i)){
+            window.location.replace = "./problem.aspx";
+        }
+    </script>
     <script src="./script/cookies.js"></script>
 </body>
 </html>

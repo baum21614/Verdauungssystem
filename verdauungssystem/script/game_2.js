@@ -36,7 +36,7 @@ $("#chbx").on('change keyup', function() {
 
 
 $(snd1).click(function(){
-    if($(ques1).val()=='23'){
+    if($(ques1).val()=='32'){
         $("#qs1aw").addClass("corr");
         $(snd1).css("opacity", "0.5");
         $(snd1).css("pointer-events", "none");
