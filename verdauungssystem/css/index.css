@@ -43,12 +43,10 @@
     display: flex;
 }
 .inf{
-    margin-bottom: 70px;
+    margin-bottom: 30px;
     color: var(--whitemain);
     font-family: var(--biofont);
     text-align: center;
-    position: absolute;
-    top: 230px;
 }
 footer{
     left: 0;
