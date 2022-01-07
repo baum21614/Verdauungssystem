@@ -2186,13 +2186,6 @@
                                     }else{
                                         echo '<svg class="figuresel" style="opacity:0; height:50px !important;width:initial !important; color: #fff;cursor:pointer;opacity:0;z-index:1000000;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"><path d="M 17 3 C 15.894531 3 15 3.894531 15 5 L 15 8 L 35 8 L 35 5 C 35 3.894531 34.105469 3 33 3 Z M 13 10 C 9.132813 10 6 13.132813 6 17 L 6 36 C 6 39.867188 9.132813 43 13 43 L 37 43 C 40.867188 43 44 39.867188 44 36 L 44 17 C 44 13.132813 40.867188 10 37 10 Z M 19 22 C 20.105469 22 21 22.894531 21 24 C 21 25.105469 20.105469 26 19 26 C 17.894531 26 17 25.105469 17 24 C 17 22.894531 17.894531 22 19 22 Z M 31 22 C 32.105469 22 33 22.894531 33 24 C 33 25.105469 32.105469 26 31 26 C 29.894531 26 29 25.105469 29 24 C 29 22.894531 29.894531 22 31 22 Z M 19.21875 31 C 19.472656 30.972656 19.753906 31.046875 19.96875 31.21875 C 21.40625 32.382813 23.144531 33 25 33 C 26.851563 33 28.59375 32.382813 30.03125 31.21875 C 30.460938 30.871094 31.089844 30.945313 31.4375 31.375 C 31.785156 31.804688 31.710938 32.433594 31.28125 32.78125 C 29.511719 34.214844 27.28125 35 25 35 C 22.714844 35 20.492188 34.21875 18.71875 32.78125 C 18.289063 32.433594 18.214844 31.804688 18.5625 31.375 C 18.738281 31.160156 18.964844 31.027344 19.21875 31 Z M 13 45 L 13 47 L 37 47 L 37 45 Z"></path></svg>';
                                     }
-                                }else{
-                                    if(isset($_COOKIE["_gafigch"])){
-                                        echo "<p style='opacity:0;height:20px !important;width:initial !important;color: #f56353;cursor:pointer;opacity:0;font-size: 10px;z-index:1000000;' class='figuresel completedzm'> Figur_Error_404 <br> Cookies löschen, um fortzufahren! </p>";
-                                    }
-                                    else{
-                                        echo "<p style='opacity:1;height:20px !important;width:initial !important;color: #f56353;cursor:pointer;opacity:0;font-size: 10px;z-index:1000000;' class='figuresel completedzm'> Figur_Error_404 <br> Cookies löschen, um fortzufahren! </p>";
-                                    }
                                 }
                             ?>
                     </foreignObject>
