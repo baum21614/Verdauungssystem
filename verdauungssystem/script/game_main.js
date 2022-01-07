@@ -77,7 +77,7 @@ $(checkbtn).click(function check(){
     }else{
         $(leerdm).toggleClass('wrng');
     }
-    if($(uvula).val()=='Uvula'){
+    if($(uvula).val()=='Uvula' || $(uvula).val()=='Gaumenzäpfchen'){
         $(uvula).toggleClass('corr');
         $(uvula).toggleClass('corruvula');
         i = i + 1;
