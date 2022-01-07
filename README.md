@@ -9,3 +9,5 @@ Nicht verfügbar für Safari und Internet Explorer!
 Besuche [vsys.aeccedd.com](http://vsys.aeccedd.com/ "Title") um zu spielen.
 
 *Von Luis, Erik, Paul*
+
+<sub><sup>Gehosted auf [aeccedd.com](https://aeccedd.com)</sup></sub>
