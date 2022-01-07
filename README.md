@@ -10,4 +10,4 @@ Besuche [vsys.aeccedd.com](http://vsys.aeccedd.com/ "Title") um zu spielen.
 
 *Von Luis, Erik, Paul*
 
-<sub><sup>Gehosted auf [aeccedd.com](http://aeccedd.com/ "Title")</sup></sub>
+<sub><sup>Gehosted auf <a href="http://aeccedd.com/">aeccedd.com</a></sup></sub>

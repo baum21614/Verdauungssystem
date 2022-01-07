@@ -1,6 +1,6 @@
 let ques1 = document.getElementById("qs1aw"),
 snd1 = document.getElementById("sendqs1");
-//let bla bla
+// un weil jquery
 
 function checkForInput(){
     if($(ques1).val() != "" || $("#year").val() != null){
