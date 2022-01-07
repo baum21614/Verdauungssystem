@@ -2250,6 +2250,9 @@
     </section>
     <script src="./script/cookies.js"></script>
     <script>
+        var delete_cookie = function(name) {
+            document.cookie = name + '=;expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+        };
         $("#accepted").click(function(){
             $(".innermodal").removeClass("modopen");
             $(".overlay").removeClass("modopen");
@@ -2262,6 +2265,8 @@
             $(this).toggleClass("chosen");
             $("#accepted").click(function(){
                 document.cookie = "_gafg1=GA1.2.442452332.163416588.if1; max-age="+60*60*24*30;
+                delete_cookie('_gafg2');
+                delete_cookie('_gafg3');
                 location.reload();
             });
             $(".bntfigsubm").toggleClass("figsel");
@@ -2272,6 +2277,8 @@
             $(this).toggleClass("chosen");
             $("#accepted").click(function(){
                 document.cookie = "_gafg2=GA1.2.442452332.163416588.if2; max-age="+60*60*24*30;
+                delete_cookie('_gafg1');
+                delete_cookie('_gafg3');
                 location.reload();
             });
             $(".bntfigsubm").toggleClass("figsel");
@@ -2282,6 +2289,8 @@
             $(this).toggleClass("chosen");
             $("#accepted").click(function(){
                 document.cookie = "_gafg3=GA1.2.442452332.163416588.if3; max-age="+60*60*24*30;
+                delete_cookie('_gafg2');
+                delete_cookie('_gafg1');
                 location.reload();
             });
             $(".bntfigsubm").toggleClass("figsel");
