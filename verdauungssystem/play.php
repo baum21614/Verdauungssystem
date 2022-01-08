@@ -6,6 +6,10 @@
         }else{
             header('Location: ./home');
         }
+
+        if (isset($_COOKIE['_g1score'])){
+            header('Location: ./spiel2');
+        }
     ?>
 <head>
     <meta charset="UTF-8">

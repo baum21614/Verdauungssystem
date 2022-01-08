@@ -23,8 +23,16 @@ gallenblase = document.getElementById('gllnbls'),
 absteigndcln = document.getElementById('abstcln'),
 aufsteigndcln = document.getElementById('afstcln');
 let checkbtn = document.getElementById('checkansw');
-
 var i = 0;
+function setCookie(name,value,days) {
+    var expires = "";
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime() + (days*24*60*60*1000));
+        expires = "; expires=" + date.toUTCString();
+    }
+    document.cookie = name + "=" + (value || "")  + expires + "; path=/";
+}
 
 $(checkbtn).click(function check(){
     checkbtn.classList.add('inact'); 
@@ -202,7 +210,8 @@ $(checkbtn).click(function check(){
 });
 $('#checkgoon').click(function message(){
     console.log(i);
-    // hier i sehe keinen.grund warum das nd funktionieren sollte digga
+    setCookie('_g1score',i,7);
+    // hier i als keks
     document.getElementById('checkgoon').style.display="none"
     if($(aufsteigndcln).hasClass("corrafcl") && $(absteigndcln).hasClass("corrabcl") && $(gallenblase).hasClass("corrgllnbl") && $(apndx).hasClass("corrapx") && $(enddarm).hasClass("corrend") && $(quercolon).hasClass("corrqq") && $(blnddnm).hasClass("corrblndm") && $(bspdrsegng).hasClass("corrbspdrgng") && $(bspdrse).hasClass("corrbspdr") && $(magen).hasClass("corrmgn") && $(rchn).hasClass("corrrchn") && $(spsroehr).hasClass("corrspsr") && $(zhne).hasClass("corrzhne") && $(gmn).hasClass("corrgmn") && $(hptgllngng).hasClass("hptgll") && $(krrmdrm).hasClass("corrkrumm") && $(uvula).hasClass("corruvula") && $(leerdm).hasClass("corrleer") && $(zwfngrdm).hasClass("corrzlffngr") && $(lebr).hasClass("corrlebr") && $(znge).hasClass("corrznge") && $(untkfspdrs).hasClass("corruntkf") && $(untzngspdrs).hasClass("corruntzn") && $(ohrspdrs).hasClass("corrohr")) {
         document.getElementById("grt1").style.display = "initial";
