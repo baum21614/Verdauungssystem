@@ -15,6 +15,10 @@
     margin-right: 12px;
     position: relative;
 }
+.tinp.clicked{
+    opacity: .5;
+    pointer-events: none;
+}
 .chralimi{
     position: absolute;
     right: 0;
@@ -199,7 +203,7 @@ footer{
 }
 .char-limit{
     position: absolute;
-    right: 153px;
+    right: 125px;
     color: #aaaaaa8c;
     text-align: center;
     font-size: 17px;

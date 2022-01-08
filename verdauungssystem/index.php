@@ -39,7 +39,7 @@
                 </div>
             </section>
             <section class="namemain" id="swc45453">
-                <div class="inner">
+                <div class="inner" style="display:flex;justify-content:center">
                     <form action="" method="post" style="position:relative;overflow:hidden;">
                         <input style="text-transform:capitalize;padding-right: 50px;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> maxlength="25"/>
                         <span class="char-limit">25</span>
@@ -76,6 +76,9 @@
         </div>
     </div>
     </div>
+    <script>
+        
+    </script>
     <script>
         $('#red').click(function redredir(){
             location.replace('./spiel');
