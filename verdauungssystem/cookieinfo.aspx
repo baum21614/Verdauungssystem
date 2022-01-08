@@ -39,7 +39,7 @@
             <a href="./cookies">Cookies</a>
         </div>
         <div class="lower">
-            <p>Das Verdauungssystem von Luis, Erik, Caspar, Paul</p>
+            <p>Das Verdauungssystem von Luis, Erik, Paul</p>
         </div>
     </footer>
 </body>

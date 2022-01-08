@@ -9,6 +9,7 @@ RewriteRule ^spiel2?$ play2.php
 RewriteRule ^weiter?$ play.php
 RewriteRule ^quelle?$ quellen.aspx
 RewriteRule ^cookies?$ cookieinfo.aspx
+RewriteRule ^fertig?$ completed.php
 RewriteRule ^safari/spiel?$ safari-extra-svgerror/safari-play.php
 RewriteRule ^safari/spiel1?$ safari-extra-svgerror/safari-play.php
 RewriteRule ^safari/spiel2?$ safari-extra-svgerror/safari-play2.php

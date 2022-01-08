@@ -40,7 +40,16 @@
 <section>
     <div class="main-cong">
             <div class="header">
-                <header></header>
+                <header>Geschafft, <?php print $_COOKIE["usersnmid"]; ?></header>
+                <p>Du hast beim 1. Spiel <?php print $_COOKIE["_g1score"]; ?>/24 Körperteilen richtig benannt! <br/> Du hast beim 2. Spiel <?php print $_COOKIE["_g1score"]; ?>/"null" Fragen richtig beantwortet!</p>
+                <?php 
+                    if((isset($_COOKIE['_g1score']) && $_COOKIE['_g1score'] >= 20){
+                        echo "Sehr gut, ", $_COOKIE["usersnmid"], "hier kannst du deine Urkunde runterladen:";
+                    }else if((isset($_COOKIE['_g1score']) && $_COOKIE['_g1score'] < 20){
+                        echo $_COOKIE["usersnmid"], "hier kannst du deine Urkunde runterladen:";
+                    }
+                ?>
+                <button class="btnsubm">Herunterladen</button>
             </div>
     </div>
 </section>
@@ -50,7 +59,7 @@
                 <a href="./cookies">Cookies</a>
             </div>
             <div class="lower">
-                <p>Das Verdauungssystem von Luis, Erik, Caspar, Paul</p>
+                <p>Das Verdauungssystem von Luis, Erik, Paul</p>
             </div>
         </footer>
         <div class="wrapper">

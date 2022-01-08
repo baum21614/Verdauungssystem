@@ -2227,19 +2227,19 @@
                 <a href="./cookies">Cookies</a>
             </div>
             <div class="lower">
-                <p>Das Verdauungssystem von Luis, Erik, Caspar, Paul</p>
+                <p>Das Verdauungssystem von Luis, Erik, Paul</p>
             </div>
         </footer>
         <div class="wrapper">
             <div class="content">
-                <header>Cookies</header>
-                <p>Wir verwenden Cookies um das Spielerlebnis zu verbessern.</p>
-                <div class="buttons">
-                    <button class="item">Verstanden</button>
-                    <a href="./cookies" class="item">Mehr erfahren</a>
-                </div>
+            <header>Cookies</header>
+            <p>Wir verwenden nötige Cookies um das Spielerlebnis zu verbessern. Mit Benutzen der Website stimmen sie den Cookies zu.</p>
+            <div class="buttons">
+                <button class="item">Verstanden</button>
+                <a href="./cookies" class="item">Mehr erfahren</a>
             </div>
         </div>
+    </div>
     </section>
     <script src="./script/cookies.js"></script>
     <script>
