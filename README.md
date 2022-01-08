@@ -8,4 +8,6 @@
 * Besuche [vsys.aeccedd.com](http://vsys.aeccedd.com/ "Title") um zu spielen.
 * *Von Luis, Erik, Paul*
 
+`<?php if(isset($_COOKIE["_ga"])) ?>`
+
 <sub><sup>Gehosted auf <a href="http://aeccedd.com/">aeccedd.com</a></sup></sub>
