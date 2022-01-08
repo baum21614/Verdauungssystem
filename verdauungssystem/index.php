@@ -39,9 +39,9 @@
             </section>
             <section class="namemain" id="swc45453">
                 <div class="inner">
-                    <form action="" method="post">
-                        <input style="text-transform:capitalize;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> />
-                        <!-- <div class="chralimi"><span>0</span>/30</div> -->
+                    <form action="" method="post" style="position:relative;overflow:hidden;">
+                        <input style="text-transform:capitalize;padding-right: 50px;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> />
+                        <span class="char-limit">25</span>
                         <input name="submit" id="formbt" class="btnsubm" type="submit" value="Schicken" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?>>
                     </form>
                     <?php if(isset($_POST['submit'])) { echo "<center><button style='margin-top:20px;' id='btnsbm' class='btnsubm'>Weiter</button></center>";}?>
