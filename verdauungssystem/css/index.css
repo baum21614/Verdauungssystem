@@ -208,7 +208,7 @@ footer{
     padding-left: 9px !important;
     padding: 4.5px;
     top: 9.5px;
-    border-left: 2px solid;
+    border-left: 2px solid #aaaaaa8c;
 }
 @keyframes shake{
     0%{

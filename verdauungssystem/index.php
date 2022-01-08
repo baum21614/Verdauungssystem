@@ -99,7 +99,6 @@
                 $('#btnsbm').css("opacity", "1");
             }else{
                 $('#btnsbm').css("opacity", "0");
-
             }     
         }
         $('input.tinp').each(function() {
@@ -110,13 +109,6 @@
         });
         // 
     </script>
-    <!--script>
-        let userAgent = navigator.userAgent;
-        let browser;
-        if(userAgent.match(/safari/i)){
-            location.replace('./problem.aspx?brwproblem');
-        }
-    </script-->
     <script src="./script/char-lmta.js"></script>
     <script src="./script/cookies.js"></script>
 </body>
