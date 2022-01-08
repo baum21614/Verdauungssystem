@@ -8,6 +8,4 @@
 * Besuche [vsys.aeccedd.com](http://vsys.aeccedd.com/ "Title") um zu spielen.
 * *Von Luis, Erik, Paul*
 
-`function redir()`
-
 <sub><sup>Gehosted auf <a href="http://aeccedd.com/">aeccedd.com</a></sup></sub>
