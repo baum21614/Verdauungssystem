@@ -200,14 +200,15 @@ footer{
 .char-limit{
     position: absolute;
     right: 153px;
-    color: #aaa;
+    color: #aaaaaa8c;
+    text-align: center;
     font-size: 17px;
     height: 30px;
     width: 35px;
     padding-left: 9px !important;
     padding: 4.5px;
     top: 9.5px;
-    border-left: 2px solid #aaa;
+    border-left: 2px solid;
 }
 @keyframes shake{
     0%{

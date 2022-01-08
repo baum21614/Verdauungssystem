@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="./css/play.css">
     <link rel="stylesheet" href="./css/cookies.css">
     <link rel="stylesheet" href="./css/footer.stick.css">
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body style="overflow:hidden;">
@@ -40,7 +41,7 @@
             <section class="namemain" id="swc45453">
                 <div class="inner">
                     <form action="" method="post" style="position:relative;overflow:hidden;">
-                        <input style="text-transform:capitalize;padding-right: 50px;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> />
+                        <input style="text-transform:capitalize;padding-right: 50px;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> maxlength="25"/>
                         <span class="char-limit">25</span>
                         <input name="submit" id="formbt" class="btnsubm" type="submit" value="Schicken" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?>>
                     </form>
@@ -116,6 +117,7 @@
             location.replace('./problem.aspx?brwproblem');
         }
     </script-->
+    <script src="./script/char-lmta.js"></script>
     <script src="./script/cookies.js"></script>
 </body>
 </html>
