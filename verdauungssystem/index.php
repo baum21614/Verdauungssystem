@@ -15,7 +15,7 @@
     <meta name="description" content="Verdauungssystem Spiel">
     <meta name="msapplication-config" content="./img/favicons/browserconfig.xml">
     <meta name="theme-color" content="#181818">
-    <title><?php if(isset($_POST['submit'])){ echo "Bereit, ", htmlspecialchars($_POST['usersnmid']), "?";} else{echo "Das Verdauungssystem";} ?></title>
+    <title><?php if(isset($_COOKIE['usersnmid'])){ echo "Bereit, ", $_COOKIE['usersnmid'],"?";} else{echo "Das Verdauungssystem";} ?></title>
     <link rel="stylesheet" href="./css/main.css">
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/play.css">
