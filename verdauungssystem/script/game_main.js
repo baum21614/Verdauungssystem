@@ -36,21 +36,21 @@ function setCookie(name,value,days) {
 
 $(checkbtn).click(function check(){
     checkbtn.classList.add('inact'); 
-    if($(ohrspdrs).val()=='Ohrspeicheldrüße'){
+    if($(ohrspdrs).val()=='Ohrspeicheldrüse'){
         $(ohrspdrs).toggleClass('corr');
         $(ohrspdrs).toggleClass('corrohr');
         i = i + 1;
     }else{
         $(ohrspdrs).toggleClass('wrng');
     }
-    if($(untzngspdrs).val()=='Unterzungenspeicheldrüße'){
+    if($(untzngspdrs).val()=='Unterzungenspeicheldrüse'){
         $(untzngspdrs).toggleClass('corr');
         $(untzngspdrs).toggleClass('corruntzn');
         i = i + 1;
     }else{
         $(untzngspdrs).toggleClass('wrng');
     }
-    if($(untkfspdrs).val()=='Unterkieferspeicheldrüße'){
+    if($(untkfspdrs).val()=='Unterkieferspeicheldrüse'){
         $(untkfspdrs).toggleClass('corr');
         $(untkfspdrs).toggleClass('corruntkf');
         i = i + 1;
@@ -141,14 +141,14 @@ $(checkbtn).click(function check(){
     }else{
         $(magen).toggleClass('wrng');
     }
-    if($(bspdrse).val()=='Bauchspeicheldrüße'){
+    if($(bspdrse).val()=='Bauchspeicheldrüse'){
         $(bspdrse).toggleClass('corr');
         $(bspdrse).toggleClass('corrbspdr');
         i = i + 1;
     }else{
         $(bspdrse).toggleClass('wrng');
     }
-    if($(bspdrsegng).val()=='Bauchspeicheldrüßengang'){
+    if($(bspdrsegng).val()=='Bauchspeicheldrüsengang'){
         $(bspdrsegng).toggleClass('corr');
         $(bspdrsegng).toggleClass('corrbspdrgng');
         i = i + 1;
