@@ -41,12 +41,12 @@
             <section class="namemain" id="swc45453">
                 <div class="inner" style="display:flex;justify-content:center">
                     <form action="" method="post" style="position:relative;overflow:hidden;">
-                        <input style="text-transform:capitalize;padding-right: 50px;" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?> maxlength="25"/>
+                        <input id="nameinp" name="usersnmid" class="tinp" type="text" placeholder="Dein Name..." value="<?= isset($_POST['usersnmid']) ? htmlspecialchars($_POST['usersnmid']) : '' ?>" <?php if(isset($_POST['submit'])) { echo 'style="opacity:.5;pointer-events:none!important;"';}?> maxlength="25"/>
                         <span class="char-limit">25</span>
-                        <input name="submit" id="formbt" class="btnsubm" type="submit" value="Schicken" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;cursor:no-drop;'";}?>>
+                        <input name="submit" id="formbt" class="btnsubm" type="submit" value="Schicken" <?php if(isset($_POST['submit'])) { echo "style='opacity:.5;pointer-events:none!important;'";}?>>
                     </form>
-                    <?php if(isset($_POST['submit'])) { echo "<center><button style='margin-top:20px;' id='btnsbm' class='btnsubm'>Weiter</button></center>";}?>
                 </div>
+                <?php if(isset($_POST['submit'])) { echo "<center><button style='margin-top:25px;' id='btnsbm' class='btnsubm'>Weiter</button></center>";}?>
             </section>
         </div>
         <section class="next <?php if (isset($_COOKIE["usersnmid"])) { echo "clicked"; }?>">
@@ -77,9 +77,6 @@
     </div>
     </div>
     <script>
-        
-    </script>
-    <script>
         $('#red').click(function redredir(){
             location.replace('./spiel');
         });
@@ -87,6 +84,12 @@
             location.replace('https://google.com');
         })
         // 
+        $("#formbt").click(function() {
+            $(this).css("opacity", "0.5");
+            $(this).css("pointer-events", "none");
+            $(".tinp").css("opacity", "0.5");
+            $(".tinp").css("pointer-events", "none");
+        })
     </script>
     <script>
         $('#btnsbm').click(function swipe(){
@@ -94,20 +97,19 @@
             $('.vis1st').toggleClass('clicked');
             $('.formbt').toggleClass('clicked');
         });
-        // 
     </script>
     <script>
         function checkForInput(element) {
-            if ($('.tinp').val().length > 0){
-                $('#btnsbm').css("opacity", "1");
+            if ($('#nameinp').val().length <= 0){
+                $('#formbt').addClass('opacityl');
             }else{
-                $('#btnsbm').css("opacity", "0");
+                $('#formbt').removeClass('opacityl');
             }     
         }
-        $('input.tinp').each(function() {
+        $('#nameinp').each(function() {
             checkForInput(this);
         });
-        $('input.tinp').on('change keyup', function() {
+        $('#nameinp').on('change keyup', function() {
             checkForInput(this);  
         });
         // 

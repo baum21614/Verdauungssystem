@@ -11,6 +11,7 @@
     color: var(--whitemain);
     font-size: 18px;
     height: 50px;
+    padding-right: 50px;
     width: 400px;
     margin-right: 12px;
     position: relative;
@@ -203,7 +204,7 @@ footer{
 }
 .char-limit{
     position: absolute;
-    right: 125px;
+    right: 126px;
     color: #aaaaaa8c;
     text-align: center;
     font-size: 17px;
@@ -213,6 +214,10 @@ footer{
     padding: 4.5px;
     top: 9.5px;
     border-left: 2px solid #aaaaaa8c;
+}
+#formbt.opacityl{
+    opacity: 0.5;
+    pointer-events: none;
 }
 @keyframes shake{
     0%{
