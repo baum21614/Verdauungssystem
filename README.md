@@ -1,8 +1,8 @@
 # Verdauungssystem_10d
 
-> - 2 Spiele:
->   - 1. Benenne die Körperteile des Verdauungssystems
->   - 2. Beantworte Fragen zu Körperteilen des Verdauungssystems
+> 2 Spiele:
+>   1. Benenne die Körperteile des Verdauungssystems
+>   2. Beantworte Fragen zu Körperteilen des Verdauungssystems
 
 - - - 
 
