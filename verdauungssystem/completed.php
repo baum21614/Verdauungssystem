@@ -39,7 +39,9 @@
 </head>
 <section>
     <div class="main-cong">
-
+            <div class="header">
+                <header></header>
+            </div>
     </div>
 </section>
 <footer>
