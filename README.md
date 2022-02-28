@@ -5,7 +5,5 @@
 >   2. Beantworte Fragen zu Körperteilen des Verdauungssystems
 
 * Nicht verfügbar für Safari und Internet Explorer!
-* Besuche [vsys.aeccedd.com](http://vsys.aeccedd.com/ "Title") um zu spielen.
+* Besuche [verdauung.realohio.de](http://verdauung.realohio.de/ "Title") um zu spielen.
 * *Von Luis, Erik, Paul*
-
-<sub><sup>Gehosted auf <a href="http://aeccedd.com/">aeccedd.com</a></sup></sub>
