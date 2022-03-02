@@ -7,4 +7,4 @@
 * Nicht verfügbar für Safari und Internet Explorer!
 * Besuche [verdauung.realohio.de](http://verdauung.realohio.de/ "Title") um zu spielen.
 * Von *Luis, Erik, Paul (& Levin)*
-\n &copy;2022 Realohio | Luis, Erik, Paul
+<br> <sub> &copy;2022 Realohio | Luis, Erik, Paul </sub>
