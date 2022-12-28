@@ -26,10 +26,6 @@
     <div class="maincookie">
         <div class="innernonflex">
             <h3>Wofür benutzen wir cookies?</h3>
-            <!--<p>Wir speichern den am Anfanf eingegebenen Namen, um diesen dann auf alles Seiten anzeigen können.</p>
-            <p>Ihr Name bleibt nur als Cookie for 30 Tage gesichert und wird danach gelöscht.</p>
-            <p>Ihr Name wir NICHT gesichert, und wir können ihn nicht einsehen.</p> -->
-            <p>bla bla cookies</p>
         </div>
     </div>
     <a class="homeicon" href="./home"><i class="fas fa-home homeicon"></i></a>
